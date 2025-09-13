@@ -1,0 +1,8 @@
+bin_encoder-cppcheck-build-dir/
+bin_encoder.cppcheck
+encoded.bin
+text
+optimized
+vgcore.150061
+.vscode/
+
