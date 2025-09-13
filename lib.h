@@ -14,4 +14,5 @@ void *binary_encoder(char **sentence_buffer);
 // TODO: TESTED, works well
 FILE *file_optimizer(char *file_name);
 
+// TODO: TESTED, works well
 FILE *encode_file(char *optimizedFile);

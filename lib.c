@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// TODO : Add support for entire ASCII character set
 char *matching_binary_string(char c) {
   bool is_present;
 
